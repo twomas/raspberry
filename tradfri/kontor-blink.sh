@@ -1,7 +1,5 @@
 #!/bin/sh
 
-#python ikea-smartlight/tradfri-status.py
-
 echo "Press [CTRL+C] to stop.."
 while true
 do

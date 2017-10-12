@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm -rf libcoap
+
 sudo apt-get install build-essential autoconf automake libtool
 git clone --recursive https://github.com/obgm/libcoap.git
 cd libcoap
